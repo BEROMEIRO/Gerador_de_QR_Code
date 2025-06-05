@@ -67,7 +67,7 @@ def gerar_qrcode_unico(texto_total):
     return buffer
 
 # Campo de texto
-texto = st.text_area("📜 Texto com endereço", height=300)
+texto = st.text_area("📜 Texto com serial", height=300)
 dados_texto = [linha.strip() for linha in texto.splitlines() if linha.strip()] if texto else []
 
 # Upload de Excel
