@@ -3,7 +3,8 @@
 Uma aplicação simples e bonita em **Python + Streamlit** para gerar um **único QR Code** contendo uma lista de seriais ou endereços — inseridos manualmente ou carregados via planilha Excel.
 
 
-![image](https://github.com/user-attachments/assets/807a1f97-ec51-4595-8ed2-3d7324d22171)
+![image](https://github.com/user-attachments/assets/2f311976-d452-4f57-8eb8-b317f100ab19)
+
 
 
 
