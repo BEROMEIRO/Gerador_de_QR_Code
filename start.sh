@@ -1,1 +1,2 @@
-#!/bin/bash\npython geradorqr.py
+#!/bin/bash
+streamlit run geradorqr.py
